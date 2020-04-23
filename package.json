@@ -1,0 +1,43 @@
+{
+  "name": "asderbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "array": "^0.4.3",
+    "array-sort": "^1.0.0",
+    "ascii-table": "0.0.9",
+    "dblapi.js": "^2.3.0",
+    "discord-economy": "^1.2.2",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "eris": "^0.10.1",
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "google-images": "^2.1.0",
+    "jsdom": "^15.2.1",
+    "long": "^4.0.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "novelcovid": "^1.2.4",
+    "quick.hook": "^1.5.1",
+    "random-puppy": "^1.1.0",
+    "sequelize": "^5.19.3",
+    "simple-youtube-api": "^5.2.1",
+    "sqlite3": "^4.1.0",
+    "superagent": "^5.1.3",
+    "table": "^5.2.3",
+    "user": "0.0.0",
+    "weather": "^1.0.4",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^1.0.7",
+    "ytsearcher": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
