@@ -1,7 +1,6 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client({disableEveryone : false});
 const botconfig = require("./botconfig.json");
-const tokenfile = require("./tokenfile.json");
 const moment = require("moment");
 let name = "Minecity";
 
@@ -534,4 +533,4 @@ if(message.member.roles.has(warnolt.id)) {
    ///////////////////////////////
 })
  
-bot.login(tokenfile.token);
+bot.login(process.env.BOT_TOKEN);
